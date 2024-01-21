@@ -1,4 +1,8 @@
 
+admin credentials : 
+userID : 1
+password : admin
+
 Imp : Install the live-server vs-code extension
 
 Steps to start backend : 
